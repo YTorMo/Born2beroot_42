@@ -1,0 +1,2 @@
+DEVICE OFFSET TYPE UUID LABEL
+sda    0x1fe  dos  
